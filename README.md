@@ -53,11 +53,11 @@ is not.
 Using newlines between "inline" element tag names and their content is also forbidden. (This
 actually alters the content, by adding spaces.) That is
 ```html
-<a>token</a>
+<a>pollyramos</a>
 ```
 is fine and
 ```html
-<a>token
+<a>pollyramos
 </a>
 ```
 is not.
